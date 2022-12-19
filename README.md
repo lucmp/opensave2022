@@ -72,6 +72,8 @@ Known issues
 
 This README file describes the very first public release of Opensave2022, occurred on the historical day of December 19, 2022. As of this release, Opensave2022 is obviously unfinished, obviously to anyone who tries to use it. Some things just don't work yet. Sorry. Please be patient. This is a hobby, I don't always have free time to work on it.
 
+This alpha release of Opensave2022 only does the "open" part. The "save" part will come later. Sorry.
+
 Opensave2022 currently only works properly on Linux. Windows will be supported in the near future. I will never support the Mac. Macs are super expensive, I don't own one and I can't even run it on a virtual machine. Hopefully, someone will be interested and contribute whatever changes may be necessary.
 
 Opensave2022 takes a bit too long to display the contents of directories that contain a large number of files. In my machine, about 1,000 files or more. I thought about caching those directories so at least the delay is removed if you use the history navigation and visit that directory more than once. But the first visit will always be slow and the cache can only be good for the one running session because the directory can always be changed between sessions. So caching is not a good fix and it is a little complicated to implement. I may have to think the whole design over or find some other solution. Suggestions are very welcome.
