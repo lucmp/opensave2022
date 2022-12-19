@@ -146,7 +146,8 @@ proc ::opensave::opensave2022	{argAction}	{
 
 	proc ::opensave::p.InsertCorrectIcon {widget target}	{
 		set iconsize $::opensave::cfg::IconSize
-		set iconsdir [list $::opensave::cfg::homedir/icons/defaultset/[file join ${iconsize}pixels]]
+		set iconsdir "$::opensave::cfg::homedir/icons/defaultset/[file join ${iconsize}pixels]"
+			puts $iconsdir/updir_icon.png
 		if {$target == "___!UPDIR_ICON!___"}	{
 			$widget insert end [subst -nocommands "\\u2BA5"]
 			return
