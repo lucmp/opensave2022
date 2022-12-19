@@ -84,7 +84,7 @@ I don't know the first thing about virtual file systems so they are not supporte
 
 The entire body of the Opensave2022 parent widget is too wide. I'm sure that someone will complain about it. That is kind of sort of a design error on my part, but I happen to really like it what way. I have a large screen and I loathe small and crammed dialogs. In fact, I configure Openbox to open all of them in full screen mode and make them PANORAMIC. I am choosing a file, 100% of my focus is on that one dialog, why make it tiny and horribly uncomfortable like some stupid porthole? I don't live in a submarine. (Which suddenly makes me think that maybe yes, some Tclers may actually be deployed in submarines.)
 
-If you have any issues, grievances or suggestions to share, I can be reached on the Github bug tracker or on c.l.t.
+If you have any issues, grievances or suggestions to share, I can be reached on the Github bug tracker or on comp.lang.tcl.
 
 https://github.com/lucmp/opensave2022
 
