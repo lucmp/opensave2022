@@ -88,7 +88,8 @@ The entire body of the Opensave2022 parent widget is too wide. I'm sure that som
 
 If you have any issues, grievances or suggestions to share, I can be reached on the Github bug tracker or on comp.lang.tcl.
 
-https://github.com/lucmp/opensave2022
+Old: https://github.com/lucmp/opensave2022
+New: https://sourceforge.net/projects/opensave2022/
 
 
 
