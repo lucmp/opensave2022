@@ -1,3 +1,5 @@
+Warning: this project has been moved to https://sourceforge.net/projects/opensave2022/ as of April 29, 2023. Any updates should now be added there, probably not here anymore.
+
 OPENSAVE2022
 
 An Open/Save dialog for Tcl/Tk applications.
